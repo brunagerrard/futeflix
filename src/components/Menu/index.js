@@ -6,12 +6,12 @@ import Button from '../Button'
 
 function Menu() {
     return (
-        <nav className="Menu">
+        <nav className='Menu'>
             <Link to='/'>
-                <img className="Logo" src={Logo} alt="BruFlix logo" />
+                <img className='Logo' src={Logo} alt='BruFlix logo' />
             </Link>
 
-            <Button as={Link} className="ButtonLink" to='/cadastro/video'>
+            <Button as={Link} className='ButtonLink' to='/cadastro/video'>
                 Novo vídeo
             </Button>
         </nav>
