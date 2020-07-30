@@ -1,4 +1,36 @@
+<h1 align="center">
+    FUTEFLIX 📺
+</h1>
+
+## 👩‍💻 Sobre Mim.
+Estudando Web Development.
+
+Entre em contato comigo [aqui](https://linkedin.com/in/nolascobruna) 🙋‍♀️
+
+## ℹ Este Projeto.
+A página foi criada como parte do workshop imersivo de React promovido pela Alura. É uma SPA (aplicação de página única) que utiliza React para estruturar rotas e componentes. O objetivo é simular uma versão mais simples e personalizada da app da Netflix, estudando React no processo!
+
+Como sempre, o layout é responsivo, portanto deve se adaptar bem a diferentes tamanhos de tela desde que não haja nenhum problema de [compatibilidade](#-Compatibilidade-de-Browser).
+
+## 🚀 Tech & Recursos.
+
+✔ JavaScript
+
+✔ React
+
+✔ HTML5
+
+✔ CSS3
+
+✔ Material [Alura](https://www.alura.com.br/)
+
+## 💻 Compatibilidade de Browser.
+Desenhado somente para Google Chrome, funcionando bem em mobile e desktop.
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
