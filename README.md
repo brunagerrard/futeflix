@@ -12,7 +12,9 @@ A página foi criada como parte do workshop imersivo de React promovido pela Alu
 
 Como sempre, o layout é responsivo, portanto deve se adaptar bem a diferentes tamanhos de tela desde que não haja nenhum problema de [compatibilidade](#-Compatibilidade-de-Browser).
 
-## 🚀 Tech & Recursos.
+## [🚀 Deploy.](https://bruflix-five.vercel.app/)
+
+## 🛠 Tech & Recursos.
 
 ✔ JavaScript
 
