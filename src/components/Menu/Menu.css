@@ -1,11 +1,10 @@
 .Logo {
-    height: 40px;
     width: 168.45px;
 }
   @media (max-width: 800px) {
     .Logo {
       padding-top: 5px;
-      max-width: 168.45px;
+      max-width: 110.45px;
     }
   }
   
